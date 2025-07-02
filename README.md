@@ -21,3 +21,12 @@
 
 <a href="about.html">About Me</a> |
 <a href="contact.html">Contact</a>
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+h1 {
+  animation: fadeIn 2s ease-in-out;
+}
