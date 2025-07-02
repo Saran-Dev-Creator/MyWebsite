@@ -18,3 +18,6 @@
   <p>Made with ❤️ on my mobile</p>
 </body>
 </html>
+
+<a href="about.html">About Me</a> |
+<a href="contact.html">Contact</a>
